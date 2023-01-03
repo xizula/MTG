@@ -12,3 +12,6 @@ functional database that will allow players to:
 
 **Global Cards** table was created using open-source project ***MTGJSON*** (https://mtgjson.com) that shares all MTG data, which made it possible to create a table 
 with specific values discribing cards and to insert a big amout of data into it easily.
+
+## Interface 
+Database will be connected to user-friendly interface using php.
