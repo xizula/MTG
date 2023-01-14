@@ -14,4 +14,4 @@ functional database that will allow players to:
 with specific values discribing cards and to insert a big amout of data into it easily.
 
 ## Interface 
-Database will be connected to user-friendly interface using php.
+Database is connected to user-friendly interface using php.
